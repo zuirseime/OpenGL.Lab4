@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab4/1.0.0": {
+        "dependencies": {
+          "AuxiliaryLib": "1.0.0"
+        },
+        "runtime": {
+          "Lab4.dll": {}
+        }
+      },
+      "AuxiliaryLib/1.0.0": {
+        "runtime": {
+          "AuxiliaryLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuxiliaryLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

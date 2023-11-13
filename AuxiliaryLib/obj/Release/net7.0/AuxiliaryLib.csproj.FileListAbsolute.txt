@@ -1,0 +1,11 @@
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\bin\Release\net7.0\AuxiliaryLib.deps.json
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\bin\Release\net7.0\AuxiliaryLib.dll
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\bin\Release\net7.0\AuxiliaryLib.pdb
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\AuxiliaryLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\AuxiliaryLib.AssemblyInfoInputs.cache
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\AuxiliaryLib.AssemblyInfo.cs
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\AuxiliaryLib.csproj.CoreCompileInputs.cache
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\AuxiliaryLib.dll
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\refint\AuxiliaryLib.dll
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\AuxiliaryLib.pdb
+D:\Homework\Універ\2 course\OpenGL\Lab4\AuxiliaryLib\obj\Release\net7.0\ref\AuxiliaryLib.dll
